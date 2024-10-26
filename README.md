@@ -1,7 +1,5 @@
 # Jayson Presto - Freelance Ruby on Rails Developer since 2017
 
-![Profile Banner](https://jaysonpresto.me/assets/my-pic-11fa0b1f89e3c3ee8dcd740b9cd33da42ad8bb8e1f1b60e515602e004bcbddfd.png) 
-
 Hi! I'm Jayson Presto, a passionate Freelance Ruby on Rails Developer from Puerto Princesa. I have a strong background in developing robust web applications, optimizing legacy code, and integrating new features seamlessly. My technical toolkit includes Ruby on Rails, PHP, C#, and more.
 
 ## 🚀 Technologies & Tools
